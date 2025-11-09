@@ -1,0 +1,7 @@
+print ("RASHI KOIRI")
+name = input("what is your name ?")
+lenghtOfName= len(name)
+print (name )
+print (lenghtOfName)
+print ("hello"+"rashi")
+print (name+"\n koiri")
